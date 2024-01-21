@@ -1,3 +1,8 @@
+
+# Wynik sprawdzarki 'MARPE': 3.344047619047619
+
+### Szymon Gogulski, Jakub Gryszczuk, Maciej Grabowski
+
 # Wprowadzenie do Systemów Wizyjnych
 
 ## Politechnika Poznańska, Instytut Robotyki i Inteligencji Maszynowej
