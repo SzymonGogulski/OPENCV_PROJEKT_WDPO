@@ -1,7 +1,7 @@
 
 # Wynik sprawdzarki 'MARPE': 3.344047619047619
 
-### Szymon Gogulski, Jakub Gryszczuk, Maciej Grabowski
+### Szymon Gogulski 147403, Jakub Gryszczuk 151161, Maciej Grabowski 151042
 
 # Wprowadzenie do Systemów Wizyjnych
 
